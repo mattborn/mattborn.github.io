@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+
+/* in order of appearance */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: #1d2939;
+  font: 16px/1 'Inter', sans-serif;
+  margin: 0 auto;
+  max-width: 1024px;
+  padding: 2rem;
+  width: 100vw;
+}
+
+#top {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+}
+
+.brand {
+  font-size: 1.5rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+a {
+  align-items: center;
+  border-radius: 1.5rem;
+  color: inherit;
+  display: flex;
+  font-weight: 500;
+  gap: 8px;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+i {
+  font-size: 20px;
+}
+
+.button {
+  background: #63f;
+  color: #fffe;
+}
+
+#headshot {
+  background: #eee;
+  width: 20rem;
+  height: 30rem;
+}
+
+#hero {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  justify-content: center;
+  min-height: calc(100vh - 7rem);
+  padding: 2rem 0 0;
+}
+
+h1 {
+  font-size: 4rem;
+  letter-spacing: -0.04em;
+  line-height: 0.9;
+  margin: 0;
+}
+
+p {
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 0;
+}
+
+.status {
+  align-items: center;
+  background: #0d82;
+  border-radius: 20px;
+  color: #0d8;
+  display: flex;
+  font-weight: 500;
+  gap: 8px;
+  padding: 14px;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.link {
+  background: #f2f4f7;
+  color: #475467;
+}
+.linkedin {
+  background: #0072b111;
+  color: #0072b1;
+}
+.dribbble {
+  background: #ea4c8911;
+  color: #ea4c89;
+}
+
+#headshot {
+  align-items: flex-start;
+  background: transparent
+    url(https://res.cloudinary.com/dlb7hetnl/image/upload/q_auto/v1695847199/headshot/aragon-7_ihsncj.jpg) no-repeat
+    center / cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 2rem;
+}
+
+small {
+  color: #fffe;
+  font-size: 12px;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+}
+
+#remix {
+  align-items: center;
+  backdrop-filter: blur(2px);
+  background: #fffd;
+  border-radius: 1.5rem;
+  display: flex;
+  font-weight: 500;
+  gap: 8px;
+  padding: 14px 20px;
+}
+
+@media (min-width: 768px) {
+  #headshot {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  }
+  #hero {
+    padding-right: 40%;
+  }
+  h1 {
+    font-size: 6rem;
+  }
+  p {
+    font-size: 2rem;
+  }
+}
