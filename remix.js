@@ -7,7 +7,7 @@ const imageNames = [
   '200/headshot/aragon-4_djgmuv',
   '200/headshot/aragon-5_awb61u',
   '200/headshot/aragon-6_tmnuhz',
-  '199/headshot/aragon-7_ihsncj',
+  // '199/headshot/aragon-7_ihsncj',
   '199/headshot/aragon-8_axjlcg',
   '199/headshot/aragon-9_t49cir',
   '199/headshot/aragon-10_xre1ho',
