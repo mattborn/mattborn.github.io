@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Founder Mode",
+    "description": "Apps, brands, and content for startups, oh my!",
+    "image": "https://placehold.co/600x400",
+    "link": "https://moona.design/founder"
+  },
+  {
+    "title": "Brand-OS",
+    "description": "Founder-friendly digital back office for CPG brands.",
+    "image": "https://placehold.co/600x400",
+    "link": "https://moona.design/brand-os"
+  },
+  {
+    "title": "HumanLayer",
+    "description": "Dev tools for Human in the Loop.",
+    "image": "https://placehold.co/600x400",
+    "link": "https://humanlayer.dev"
+  },
+  {
+    "title": "Mask",
+    "description": "Secure AI agents with advanced reasoning for enterprise.",
+    "image": "https://placehold.co/600x400",
+    "link": "https://llmmask.com"
+  },
+  {
+    "title": "Novi",
+    "description": "Your AI cofounder and business idea analysis.",
+    "image": "https://placehold.co/600x400",
+    "link": "https://usenovi.com"
+  },
+  {
+    "title": "Mitt",
+    "description": "My latest attempts to clone myself as an AI agent.",
+    "image": "https://placehold.co/600x400",
+    "link": "/mitt"
+  },
+  {
+    "title": "Frank",
+    "description": "Fantasy football.",
+    "image": "https://placehold.co/600x400",
+    "link": "/frank"
+  },
+  {
+    "title": "Macabre",
+    "description": "Anti-frustration tools for Mac.",
+    "image": "https://placehold.co/600x400",
+    "link": "/macabre"
+  },
+  {
+    "title": "Spent",
+    "description": "Automation for business and personal accounting.",
+    "image": "https://placehold.co/600x400",
+    "link": "/spent"
+  }
+]
