@@ -1,0 +1,56 @@
+[
+  {
+    "title": "Founder Mode",
+    "description": "Apps, brands, and content for startups, oh my!",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326504/v25/mattborn-founder_2x_d9nmxi.png",
+    "link": "https://moona.design/founder"
+  },
+  {
+    "title": "Brand-OS",
+    "description": "Founder-friendly digital back office for CPG brands.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326520/v25/mattborn-brandos_2x_loei9a.png",
+    "link": "https://moona.design/brand-os"
+  },
+  {
+    "title": "HumanLayer",
+    "description": "Dev tools for Human in the Loop.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326515/v25/mattborn-humanlayer_2x_mrhp7s.png",
+    "link": "https://humanlayer.dev"
+  },
+  {
+    "title": "Mask",
+    "description": "Secure AI agents with advanced reasoning for enterprise.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326514/v25/mattborn-mask_2x_ptmrjm.png",
+    "link": "https://llmmask.com"
+  },
+  {
+    "title": "Mitt",
+    "description": "My latest attempts to clone myself as an AI agent.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326503/v25/mattborn-mitt_2x_vpdjei.png",
+    "link": "/mitt"
+  },
+  {
+    "title": "Novi",
+    "description": "Your AI cofounder and business idea analysis.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326521/v25/mattborn-novi_2x_m8jyaq.png",
+    "link": "https://usenovi.com"
+  },
+  {
+    "title": "Frank",
+    "description": "Fantasy football.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326503/v25/mattborn-frank_2x_rqtug0.png",
+    "link": "/frank"
+  },
+  {
+    "title": "Macabre",
+    "description": "Anti-frustration tools for Mac.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326502/v25/mattborn-macabre_2x_jdtjzk.png",
+    "link": "/macabre"
+  },
+  {
+    "title": "Spent",
+    "description": "Automation for business and personal accounting.",
+    "image": "https://res.cloudinary.com/dlb7hetnl/image/upload/v1759326645/v25/mattborn-spent_2x_jk0vlz.png",
+    "link": "/spent"
+  }
+]
